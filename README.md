@@ -9,3 +9,5 @@ This project aims to develop a deep learning model to classify OCT scans into si
 4. Normal (Normal)
 
 Automated classification can accelerate screening, improve diagnostic accuracy, and reduce manual workload for ophthalmologists. Deep learning is particularly suitable because it can learn hierarchical features from high-dimensional OCT data, capturing subtle patterns that traditional methods may miss, and generalizing to new patients regardless of race or gender, or new imaging conditions.
+
+![Model Architecture](image.png)
