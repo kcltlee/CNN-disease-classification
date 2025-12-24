@@ -1,0 +1,42 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# macOS
+*.DS_Store
+
+# Logs
+*.log
+
+# Node
+node_modules/
+
+# Compiled source
+*.class
+*.o
+*.so
+*.exe
+*.dll
+
+# Backup files
+*~
+*.swp
+*.swo
+
+# Other
+.idea/
+*.bak
